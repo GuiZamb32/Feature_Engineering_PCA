@@ -133,11 +133,11 @@ Features distribuídas em 4 pilares:
 
 ## Questões Respondidas
 
-✅ **Q1**: Interpretação dos componentes principais (loadings e síntese)
-✅ **Q2**: Criação e análise do Índice de Eficiência de Saúde
-✅ **Q3**: Categorização do Nível Industrial e uso no gráfico
-✅ **Q4**: Comparação do PCA antes/depois da normalização per capita
-✅ **Q5**: Tratamento de skewness com transformação logarítmica
+✅ **Q1**: Interpretação dos componentes principais (loadings e síntese)<br>
+✅ **Q2**: Criação e análise do Índice de Eficiência de Saúde<br>
+✅ **Q3**: Categorização do Nível Industrial e uso no gráfico<br>
+✅ **Q4**: Comparação do PCA antes/depois da normalização per capita<br>
+✅ **Q5**: Tratamento de skewness com transformação logarítmica<br>
 
 ## Observações Importantes
 
@@ -163,8 +163,7 @@ Features distribuídas em 4 pilares:
 
 ## Autor
 
-Análise desenvolvida para a disciplina de Ciência de Dados
-Período de análise: 2019-2023 (Pandemia COVID-19)
+Guilherme Zamboni Menegacio
 
 ## Licença
 
@@ -173,7 +172,7 @@ Os dados são propriedade do Banco Mundial.
 
 ## Contato
 
-Para dúvidas ou sugestões, consulte seu professor ou tutor da disciplina.
+Para dúvidas ou sugestões, entre em contato pelo email guilhermezamboni867@gmail.com
 
 ---
 
